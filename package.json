@@ -1,0 +1,20 @@
+{
+  "name": "FlightSchedules",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "3.9.0",
+    "http": "0.0.0",
+    "require": "^2.4.17",
+    "requirejs": "^2.1.15"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.1",
+    "supertest": "^0.15.0"
+  }
+}

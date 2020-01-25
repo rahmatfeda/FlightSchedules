@@ -1,0 +1,17 @@
+{
+    "app": {
+      "name": "flight-schudels",
+      "replicas": "3",
+      "cpu": "10m",
+      "memory": "128Mi",
+      "repository" : "fedayizada",
+      "hostname"    : "emirates.com"
+    },
+    "pipeline": {
+        "enabled": true,
+        "library": {
+          "branch": "master"
+        }
+    }
+  }
+  

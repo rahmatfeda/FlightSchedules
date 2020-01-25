@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Flight Schedules
+name: schedules
+version: v0.2.0
